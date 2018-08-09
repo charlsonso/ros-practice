@@ -1,0 +1,6 @@
+<launch>
+    <node name="name" pkg="package" type="node_type">
+        <rosparam command="load"
+            fil"$find package)/config/config.yaml" />
+    </node>
+</launch>
