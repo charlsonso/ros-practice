@@ -1,0 +1,3 @@
+husky_highlevel_controller:
+    read_topic_name: scan
+    queue_size: 1

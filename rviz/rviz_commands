@@ -1,0 +1,3 @@
+//to launch rviz
+
+> rosrun rviz rviz

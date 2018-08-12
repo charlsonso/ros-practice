@@ -1,0 +1,14 @@
+nodes use parameter server to store and retrieve parameters at runtime
+
+best used for static data such as configuration parameters
+
+parameters can be defined in launch files or yaml files
+
+to list all parameters
+> rosparam list
+
+to get the value of a parameter
+> rosparam get parameter_name
+
+to set the value of a parameter
+> rosparam set parameter_name value
